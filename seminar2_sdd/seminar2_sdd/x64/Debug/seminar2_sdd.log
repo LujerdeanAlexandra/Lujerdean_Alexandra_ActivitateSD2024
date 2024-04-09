@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\user\Desktop\seminar2_sdd\seminar2_sdd\Source.c(13,52): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\user\Desktop\seminar2_sdd\seminar2_sdd\Source.c(14,5): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\user\Desktop\seminar2_sdd\seminar2_sdd\Source.c(84,21): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\user\Desktop\seminar2_sdd\seminar2_sdd\Source.c(103,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  seminar2_sdd.vcxproj -> C:\Users\user\Desktop\seminar2_sdd\x64\Debug\seminar2_sdd.exe
