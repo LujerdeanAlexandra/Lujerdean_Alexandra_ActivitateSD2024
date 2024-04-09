@@ -1,0 +1,5 @@
+13,Strada Sperantei,3
+17,Strada Luminii,5
+20,Strada Uitarii,9
+22,Calea Dorobanti,34
+28,Calea Victoriei,11
