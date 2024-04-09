@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Seminar5_sdd.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+C:\Users\user\Desktop\Seminare SDD 2024\Seminar5_sdd\Seminar5_sdd\Source.c(28,34): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\user\Desktop\Seminare SDD 2024\Seminar5_sdd\Seminar5_sdd\Source.c(29,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\user\Desktop\Seminare SDD 2024\Seminar5_sdd\Seminar5_sdd\Source.c(84,16): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\user\Desktop\Seminare SDD 2024\Seminar5_sdd\Seminar5_sdd\Source.c(126,50): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar5_sdd.vcxproj -> C:\Users\user\Desktop\Seminare SDD 2024\Seminar5_sdd\x64\Debug\Seminar6_sdd.exe
