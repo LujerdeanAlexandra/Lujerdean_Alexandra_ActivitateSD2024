@@ -1,0 +1,12 @@
+﻿  FileName.c
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(31,17): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(31,17): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(33,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(33,20): warning C4024: 'strtok': different types for formal and actual parameter 1
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(36,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(36,20): warning C4024: 'strtok': different types for formal and actual parameter 1
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(39,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(39,20): warning C4024: 'strtok': different types for formal and actual parameter 1
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(48,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+C:\Users\user\Desktop\Seminar3_sdd\Seminar3_sdd\FileName.c(48,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'char *'
+  Seminar3_sdd.vcxproj -> C:\Users\user\Desktop\Seminar3_sdd\x64\Debug\Seminar3_sdd.exe
