@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\user\Desktop\Seminar8_sdd\Seminar8_sdd\Source.c(118,21): warning C4020: 'afisareHeap': too many actual parameters
+  Seminar8_sdd.vcxproj -> C:\Users\user\Desktop\Seminar8_sdd\x64\Debug\Seminar8_sdd.exe
