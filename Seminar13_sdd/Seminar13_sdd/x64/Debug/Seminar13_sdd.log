@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\user\Desktop\Seminar13_sdd\Seminar13_sdd\Source.c(63,6): warning C4133: '=': incompatible types - from 'NodPrincipal *' to 'NodSecundar *'
+C:\Users\user\Desktop\Seminar13_sdd\Seminar13_sdd\Source.c(65,11): warning C4133: '=': incompatible types - from 'NodSecundar *' to 'NodPrincipal *'
+  Seminar13_sdd.vcxproj -> C:\Users\user\Desktop\Seminar13_sdd\x64\Debug\Seminar13_sdd.exe
